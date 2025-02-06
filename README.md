@@ -1,0 +1,1 @@
+This repository contains an example of a common error in Ada programming: integer overflow.  The `Add_One` function adds one to an integer input. The `Example` procedure demonstrates a scenario where this could lead to unexpected results.  The solution shows how to handle potential integer overflow.
